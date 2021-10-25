@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "title": "Vaccination",
+        "detail": "Vaccination is the administration of a vaccine to help the immune system develop protection from a disease.",
+        "image": "https://i.ibb.co/mhQ5pdB/download.png"
+    },
+    {
+        "id": 2,
+        "title": "Health Checkup Packages",
+        "detail": "What is a health check-up? Regular health checks can identify any early signs of health issues. When you have a health check, your doctor will talk with you about your medical history, your family's history of disease and your lifestyle, including your diet, weight, physical activity, alcohol use and whether you smoke.",
+        "image": "https://i.ibb.co/4T15m9S/cardiac-procedures-and-preventive-health-checkups-thumb.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Blood Bank",
+        "detail": "Blood banking is the process that takes place in the lab to make sure that donated blood, or blood products, are safe before they are used in blood transfusions and other medical procedures.",
+        "image": "https://i.ibb.co/bbGk0ZC/303-3036306-jpg-bank-vector-blood-blood-donation-logo-png.png"
+    },
+    {
+        "id": 4,
+        "title": "Surgery Consultation",
+        "detail": "Surgery consultation, which is an essential part of any surgical procedure, involves making an assessment as to whether the patient is fit to undergo surgery and if the benefits of the procedure outweigh the risk.",
+        "image": "https://i.ibb.co/HGs3PqJ/295-2958158-surgeon-icon-surgeon-icon-png-transparent-png.png"
+    },
+    {
+        "id": 5,
+        "title": "Appointment Booking",
+        "detail": "Visit the doctor, take the service based on your appointment. Get back to good health and happiness.",
+        "image": "https://i.ibb.co/r7kbLQz/unnamed.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Emergency Services",
+        "detail": "Emergency Medical Services, more commonly known as EMS, is a system that provides emergency medical care. ",
+        "image": "https://i.ibb.co/vQPXxkC/83bfad5fbd39abbf7c35784a53a12c12e0823eb4.png"
+    }
+]
